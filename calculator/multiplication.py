@@ -1,6 +1,6 @@
 """Function multiplication example"""
 
 def multiplication(a, b):
+    """a*b=c"""
     multiplication = a * b
-        """a*b=c"""
     return multiplication
